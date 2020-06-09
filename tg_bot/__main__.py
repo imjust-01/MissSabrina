@@ -27,7 +27,7 @@ def escape_html(word):
     return escape(word)
 
 PM_START_TEXT = """
-Hey There! My Name Is Kajal* .
+Hey There! My Name Is *Kajal* .
 
 I'm A Group Management Bot, Made With Love And Managed By [This Awesome Person](https://t.me/MZTADMIN) . 
 
@@ -38,7 +38,7 @@ Click Help Button Or Hit /help Know More About My Full Potential Use!
 
 HELP_STRINGS = """
 
-Hello! my name *Kajal*.
+Hello! my name *{}*.
 
 *Main* available commands:
  - /start: Start the bot...
