@@ -38,7 +38,7 @@ Click Help Button Or Hit /help Know More About My Full Potential Use!
 
 HELP_STRINGS = """
 
-Hello! my name *{}*.
+Hello! my name *Kajal*.
 
 *Main* available commands:
  - /start: Start the bot...
